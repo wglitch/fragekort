@@ -1,26 +1,29 @@
 let cards = [];
 let lastIndex = -1;
-let showingBack = false;
+let locked = false;
 
 const card = document.querySelector("#card");
-const textA = document.querySelector("#textA");
-const textB = document.querySelector("#textB");
+const cardText = document.querySelector("#cardText");
 
 async function init() {
   try {
     const response = await fetch("kort.txt", { cache: "no-store" });
+
+    if (!response.ok) {
+      throw new Error("Kunde inte läsa kort.txt");
+    }
+
     const raw = await response.text();
     cards = parseCards(raw);
 
     if (!cards.length) {
       cards = ["Kortleken är tom.\n\nLägg texter i kort.txt."];
     }
-
-    showRandomCard(textA);
   } catch (error) {
-    cards = ["Kunde inte läsa kort.txt.\n\nKör appen via en enkel lokal server, eller lägg den på GitHub Pages."];
-    showRandomCard(textA);
+    cards = ["Kunde inte läsa kort.txt.\n\nLägg filerna på GitHub Pages eller kör via en enkel lokal server."];
   }
+
+  showRandomCard();
 }
 
 function parseCards(raw) {
@@ -30,48 +33,57 @@ function parseCards(raw) {
     .filter(Boolean);
 }
 
-function randomIndex() {
+function getRandomIndex() {
   if (cards.length < 2) return 0;
 
   let index = lastIndex;
   while (index === lastIndex) {
     index = Math.floor(Math.random() * cards.length);
   }
+
   return index;
 }
 
-function showRandomCard(target) {
-  const index = randomIndex();
+function showRandomCard() {
+  const index = getRandomIndex();
   lastIndex = index;
-  renderCard(cards[index], target);
+  renderCard(cards[index]);
 }
 
-function renderCard(raw, target) {
+function renderCard(raw) {
   const lines = raw.split(/\n/);
   const title = lines.shift()?.trim() || "";
   const body = lines.join("\n").trim();
 
-  target.innerHTML = "";
+  cardText.innerHTML = "";
 
   if (title) {
     const h1 = document.createElement("h1");
     h1.textContent = title;
-    target.appendChild(h1);
+    cardText.appendChild(h1);
   }
 
   if (body) {
     const p = document.createElement("p");
     p.textContent = body;
-    target.appendChild(p);
+    cardText.appendChild(p);
   }
 }
 
 function draw() {
-  const target = showingBack ? textA : textB;
-  showRandomCard(target);
+  if (locked) return;
+  locked = true;
 
-  showingBack = !showingBack;
-  card.classList.toggle("flipped", showingBack);
+  card.classList.add("switching");
+
+  window.setTimeout(() => {
+    showRandomCard();
+  }, 130);
+
+  window.setTimeout(() => {
+    card.classList.remove("switching");
+    locked = false;
+  }, 280);
 }
 
 card.addEventListener("click", draw);
