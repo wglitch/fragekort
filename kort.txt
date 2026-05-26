@@ -1,18 +1,380 @@
-Vad har bidragit till...
+
+Berätta mer om…
+---
+
+
+Jag vill inte svara på den frågan.
+
+---
+
+
+Hur upplevde du…
+
+---
+
+
+Låt mig få återkomma till dig.
+
+---
+
+Hur kändes det…
+
+
+---
+
+ 
+Jag stoppar där.
+
+---
+
+Vad har bidragit till…
+
 ---
 
 Tack för att ni lyssnade.
----
-Tre snabba
 
-Vad är nytt?
+
 ---
-Vad är viktigt?
+
+När märkte du att…
+
 ---
-Vad är osäkert?
+
+Vi får återuppta detta ett annat tillfälle.
+
 ---
-Vad vet vi?
+
+Vad hände sen?
+
 ---
-Hur vet vi det?
+
+
+Det känns obekvämt när du frågar det.
+
+
 ---
-Vad vet vi inte?
+
+Vad fick dig att…
+
+
+---
+
+Det har inte du med att göra, nästa fråga.
+
+---
+
+Hur tänkte du…
+
+---
+
+Vad får dig att fråga mig det?
+
+---
+
+Hur tror du de andra uppfattade det som hände?
+
+---
+
+Hur skulle du själv svara på det?
+
+---
+
+Vilka känslor var starkast i det här?
+
+---
+
+Jag är inte säker på vad du frågar egentligen…
+
+---
+
+Hur känner du nu?
+
+---
+
+Det måste jag få tänka på en stund. Ge mig ett ögonblick…
+
+---
+
+Vilka känslor dyker upp när du pratar om…
+
+---
+
+Det kan inte jag svara på.
+
+---
+
+Det låter som det finns mer här
+
+---
+
+Det vet inte jag. 
+
+---
+
+Vad har du lärt dig av…
+
+---
+
+Det jag ska säga nu kan vara svårt att greppa så ha lite tålamod med mig.
+
+---
+
+Vad är den största lärdomen av…
+
+---
+
+Min poäng är…
+
+---
+
+Vad skulle du ha gjort annorlunda?
+
+---
+Det jag försöker säga är…
+
+---
+
+Vad tänkte du när…
+
+---
+
+Det viktigaste med det här är…
+
+---
+
+Vad betyder det här för dig?
+
+---
+
+Ett annat sätt att säga det på är…
+
+---
+
+Vad tror du det här säger om dig?
+
+---
+
+För att summera…
+
+---
+
+Vad skulle du säga är den röda tråden?
+
+---
+
+Jag kommer lämna det här samtalet nu, när du är redo att fortsätta på ett konstruktivt sätt kan du höra av dig.
+
+---
+
+Vad får dig att tro att du har rätt?
+
+---
+
+Vet du, jag har tänkt på det och det funkar inte för mig.
+
+---
+
+Vad hade du velat säga till dig själv då?
+
+---
+
+Det är några andra här som jag också vill prata med, men först vill jag fråga dig om det där du sa.
+
+---
+
+Hur tänker du nu?
+
+---
+
+Jag respekterar mig själv för mycket för att acceptera det här.
+
+---
+
+Jag vill gärna gräva lite djupare när det gäller…
+
+---
+
+Jag känner mig attackerad/kritiserad kan du säga det där på ett annat sätt?
+
+---
+
+Det låter som det finns fler lager här…
+
+---
+Av anledning X lämnar jag den här konversationen nu. 
+
+---
+
+Spegla (återupprepa några utvalda ord)
+
+---
+
+Intressant fråga, men det viktiga här är ju...
+
+---
+
+Det låter som…
+
+---
+
+Behandla mig inte som en karikatyr, tillskriv mig inte åsikter som jag inte har uttryckt.
+
+---
+
+Det verkar som…
+
+---
+
+Det är inte mitt ansvar, du borde prata med X.
+
+---
+
+Det ser ut som…
+
+---
+Det var olyckligt (att det hände/att du valde dom orden)
+
+---
+
+Så det du säger är…
+
+---
+
+Låt mig förtydliga vad jag hörde innan jag svarar...
+---
+
+Om jag förstår dig rätt så…
+
+---
+Hörde jag dig rätt, kan du upprepa?
+
+---
+
+Det får mig att tänka på… (kort) plus fråga tillbaka (typ: vad har du för råd?)
+
+---
+
+Det vill jag inte svara på för att…
+
+---
+
+Du nämnde … berätta mer om det.
+
+---
+
+Jag ska ta en stund och reflektera över hur jag ska svara på det här.
+
+---
+
+När du sa … så förändrades ditt tonfall, hur kommer det sig?
+
+---
+
+Det finns många sätt att göra rätt på, men det där var inte ett av dem.
+
+---
+
+Jag hör att…
+
+---
+Var berättarrösten. Beskriv vad som sker precis nu
+---
+VAR TYST (och vänta på fortsättning)
+
+---
+Vid oacceptabla beteenden: säg beteendet neutralt och säg hur hen ska göra rätt. ("Din hand är på min axel, det gillar inte jag, ta bort den.")
+
+---
+Jag vill gå tillbaka till det du sa tidigare om…
+
+---
+Jag förstår inte frågan, och skulle uppskatta om du kunde förtydliga den.
+
+---
+Varför då?
+
+---
+Jag vet vad jag såg/hörde/upplevde (Återupprepa vid behov)
+
+---
+
+Varför försvarar du det här så hårt?
+
+---
+
+Jag hör vad du säger, men jag håller inte med och det är okej.
+
+---
+Vilka är dina bästa argument?
+
+---
+Det känns som att den här konversationen inte leder någonvart just nu, jag föreslår en paus.
+
+---
+Vad döljer du?
+---
+Hur menar du då?
+
+---
+
+Hjälp mig förstå hur du kom fram till det?
+
+---
+Jag uppskattar att du delar med dig, men jag är inte säker på att det här är rätt forum.
+
+---
+Vad är de största riskerna med det perspektivet?
+
+---
+Jag har svårt att förstå hur det du säger är relevant för det vi pratar om, kan vi komma tillbaka till ämnet?
+
+---
+Hur kan det här påverka andra på lång sikt?
+
+---
+Jag förstår att du har starka känslor kring det här, men det är inte acceptabelt att uttrycka sig på det sättet.
+
+---
+
+Hur säker är du på att det här stämmer?
+
+---
+Jag hör vad du säger, men sättet du uttrycker det på känns respektlöst.
+---
+Vad tänker du att de som inte håller med dig har missförstått?
+
+---
+Om vi ska fortsätta den här diskussionen behöver vi hålla en bättre ton.
+---
+Vad skulle behöva hända för att du ska ändra uppfattning?
+
+---
+Det där känns som en personlig attack, och jag ber dig att sluta.
+---
+Vad ser du som det största motargumentet?
+---
+Det är okej att vi tycker olika, men det är inte okej att uttrycka sig på det sättet.
+
+---
+
+Om det inte fungerade, vad skulle nästa steg bli?
+
+---
+Det är intressant att vi ser på det här på olika sätt, jag uppskattar att höra din syn.
+
+---
+Hur skulle du beskriva det för någon som var skeptisk?
+
+---
+Vi behöver inte vara överens om allt för att ha en bra dialog.
+---
+Hur gick dina tankar där i den stunden? 
+
+---
+
+Att vi tycker olika kan vara en styrka, det ger fler perspektiv.
+
+---
+Hur kändes det?
+---
+När du gör/säger X så får det mig att känna Y, jag skulle uppskatta om du gjorde Z istället.
