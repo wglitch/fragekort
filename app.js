@@ -28,6 +28,8 @@ async function init() {
 
 function parseCards(raw) {
   return raw
+    .replace(/\r\n/g, "\n")
+    .replace(/\r/g, "\n")
     .split(/^\s*---+\s*$/gm)
     .map(card => card.trim())
     .filter(Boolean);
