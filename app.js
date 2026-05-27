@@ -28,7 +28,7 @@ async function init() {
 
 function parseCards(raw) {
   return raw
-    .split(/\n---+\n/g)
+    .split(/^\s*---+\s*$/gm)
     .map(card => card.trim())
     .filter(Boolean);
 }
